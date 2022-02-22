@@ -1,0 +1,38 @@
+/* Header */
+
+.header {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+li {
+    display: inline-block;
+    margin-left: 20px;
+} 
+
+/* first section */
+
+.left-block {
+    width: 500px;
+    height: 600px;
+}
+
+.h2 {
+    font-weight: bold;
+    font-size: 35px;
+    width: 600px;
+}
+
+.p1 {
+    font-size: 18px;
+}
+
+.right-block {
+    width: 400px;
+}
+
+.img2 {
+    width: 400px;
+}
+
